@@ -15,6 +15,9 @@
   - title: Solace NodeJS API
     image: nodejs-logo.png
     url: https://solacesamples.github.io/solace-samples-nodejs/
+  - title: Solace Java RTO API
+    image: java-logo.jpg
+    url: https://solacesamples.github.io/solace-samples-javarto/
 - title: Open APIs and Protocols
   projects:
   - title: Solace JMS API
