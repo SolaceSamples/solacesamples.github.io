@@ -1,1 +1,0 @@
-This directory contains common images and style sheets used by the gh-pages branch of all Solace Samples. This allows adjustment to the common look and feel of the various samples by updating these style sheets. Do not remove files from this directory unless all samples have been upate to avoid using them.
